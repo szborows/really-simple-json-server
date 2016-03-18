@@ -1,0 +1,7 @@
+{
+    "/config": {"avatar_upstream_server": "172.17.42.42"},
+    "/u/1/friends": ["slavko", "asia", "agata", "zbyszek", "lucyna"],
+    "/u/2/friends": ["adam", "grzegorz"],
+    "/u/3/friends": [],
+    "/u/4/friends": ["slavko"]
+}
